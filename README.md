@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ali haleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali haleem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@alihaleem8959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alihaleem8959" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-haleem-885814251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-haleem-885814251" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ali haleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ali haleem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
