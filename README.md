@@ -1,4 +1,8 @@
-<style>body{background:red;}</style>
+<style>
+body{
+background:red;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Ali "Haleem"</h1>
 <h3 align="center">A Full-Stack developer from Afghanistan that love Humanity</h3>
 
