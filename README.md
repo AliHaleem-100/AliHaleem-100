@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my Portfilio**
 
-- 🌱 I’m currently learning **SQL, Flask, Harvard University**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AliHaleem-100](https://github.com/AliHaleem-100)
 
 <h3 align="left">Connect with me:</h3>
